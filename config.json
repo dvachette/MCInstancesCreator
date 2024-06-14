@@ -1,4 +1,7 @@
 {
     "minecraftdir":"%APPDATA%/roamning/.minecraft",
-    "modsdir":"mods"
+    "modsdir":"mods",
+    "tempdir":"temp",
+    "loaderspath":"loaders.json",
+    "dependenciespath":"dependencies.json"
 }   

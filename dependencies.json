@@ -1,0 +1,55 @@
+[
+    {
+        "modId": "betterdungeons",
+        "dependencies": [
+            "yungsapi"
+        ],
+        "loader": "forge",
+        "versions": [
+            "1.20",
+            "1.20.1"
+        ]
+    },
+    {
+        "modId": "yungsapi",
+        "dependencies": [],
+        "loader": "forge",
+        "versions": [
+            "1.20",
+            "1.20.1"
+        ]
+    },
+    {
+        "modId": "betterjungletemples",
+        "loader": "forge",
+        "dependencies": [
+            "yungsapi"
+        ],
+        "versions": [
+            "1.20",
+            "1.21"
+        ]
+    },
+    {
+        "modId": "betterjungletemples",
+        "loader": "forge",
+        "dependencies": [
+            "yungsapi"
+        ],
+        "versions": [
+            "1.20",
+            "1.21"
+        ]
+    },
+    {
+        "modId": "yungsextras",
+        "loader": "forge",
+        "dependencies": [
+            "yungsapi"
+        ],
+        "versions": [
+            "1.20",
+            "1.21"
+        ]
+    }
+]
